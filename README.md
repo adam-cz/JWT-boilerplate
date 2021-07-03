@@ -1,6 +1,6 @@
 # JWT-boilerplate
 
-Backend solution to handle JWT token through httponly cookies.
+Backend (microservice) solution to handle JWT token through httponly cookies.
 
 After registering or login user is created access and refresh token. 
 
